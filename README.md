@@ -28,6 +28,7 @@ obj.mech(r)
 
 
 ## Output
+<img width="1915" height="794" alt="m4 o1" src="https://github.com/user-attachments/assets/1f303387-03be-4fa8-8c62-c50b01dd47e5" />
 
 
 ## Result
@@ -56,6 +57,7 @@ result = merge(dict1, dict2)
 print("Merged Dictionary:", result)
 
 ## Output
+<img width="1919" height="797" alt="m4 o2" src="https://github.com/user-attachments/assets/6225701a-2ce4-4e61-b528-ed22c3a31eeb" />
 
 
 ## Result
@@ -95,9 +97,8 @@ print("Sorted by Keys:", sorted_by_keys)
 print("Sorted by Values:", sorted_by_values)
 
 ## Sample Output
-Original Dictionary: {'b': 5, 'a': 2, 'd': 8, 'c': 3}
-Sorted by Keys: {'a': 2, 'b': 5, 'c': 3, 'd': 8}
-Sorted by Values: {'a': 2, 'c': 3, 'b': 5, 'd': 8}
+
+<img width="1919" height="798" alt="m4 o3" src="https://github.com/user-attachments/assets/b28deb34-5de8-400b-a704-b563079330c1" />
 
 ## Result
 Thus the This Python program demonstrates how to sort a dictionary:
@@ -128,8 +129,8 @@ except IndexError:
 print("Program executed successfully.")
 
 ## Output
-You're out of list range
-Program executed successfully.
+<img width="1917" height="795" alt="m4 o4" src="https://github.com/user-attachments/assets/2fe081e8-b88b-45ea-8ad5-f668768603db" />
+
 ## Result
 Thus the Python program that handles an **IndexError** when trying to access an element beyond the available range of a list is executed successfully.
 
@@ -158,8 +159,8 @@ except FileNotFoundError:
     print("Error: 'story.txt' file not found. Please check the file path.")
 
 ## Output
-ERROR!
-Error: 'story.txt' file not found. Please check the file path.
+<img width="1919" height="792" alt="m4 o5" src="https://github.com/user-attachments/assets/4ec157b2-00ff-407a-8334-5dc435d45f0a" />
+
 
 ## Result
 Thus the Python program that counts the number of lines in a text file `story.txt` that do **not** start with the alphabet `'T'` is executed successfully.
